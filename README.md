@@ -1,2 +1,2 @@
-# edward-in-state-PeopleSoft-Timesheet-Enhanced-bookmarklet
+#PeopleSoft-Timesheet-Enhanced-bookmarklet
 A bookmarklet that will add functionality to PeopleSoft Timesheet
